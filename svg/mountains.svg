@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <defs>
+    <linearGradient id="mist1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#B0A898;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#B0A898;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#B0A898;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 280 Q100 200 200 240 Q300 180 400 220 Q500 160 600 210 Q700 170 800 230 L800 400 L0 400Z" fill="#B0A898" opacity="0.06"/>
+  <path d="M0 310 Q80 260 160 290 Q240 240 320 270 Q400 230 480 260 Q560 220 640 250 Q720 230 800 270 L800 400 L0 400Z" fill="#B0A898" opacity="0.08"/>
+  <path d="M0 340 Q100 300 200 320 Q300 280 400 310 Q500 270 600 300 Q700 280 800 320 L800 400 L0 400Z" fill="#B0A898" opacity="0.1"/>
+  <rect x="0" y="200" width="800" height="100" fill="url(#mist1)" opacity="0.5"/>
+  <path d="M0 370 Q100 365 200 370 Q300 375 400 370 Q500 365 600 370 Q700 375 800 370" stroke="#B0A898" stroke-width="0.5" opacity="0.1" fill="none"/>
+  <path d="M0 380 Q100 375 200 380 Q300 385 400 380 Q500 375 600 380 Q700 385 800 380" stroke="#B0A898" stroke-width="0.5" opacity="0.08" fill="none"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" fill="none">
+  <!-- Traditional Chinese cloud pattern -->
+  <path d="M50 50 Q50 30 70 30 Q80 15 100 25 Q120 15 130 30 Q150 30 150 50 Q150 65 135 65 Q120 65 115 55 Q110 65 95 65 Q80 65 75 55 Q70 65 55 65 Q40 65 40 50Z" stroke="#B0A898" stroke-width="1.5" opacity="0.12" fill="none"/>
+  <path d="M150 50 Q150 30 170 30 Q180 15 200 25 Q220 15 230 30 Q250 30 250 50 Q250 65 235 65 Q220 65 215 55 Q210 65 195 65 Q180 65 175 55 Q170 65 155 65 Q140 65 140 50Z" stroke="#B0A898" stroke-width="1.5" opacity="0.12" fill="none"/>
+  <!-- Small dots -->
+  <circle cx="100" cy="40" r="2" fill="#B0A898" opacity="0.1"/>
+  <circle cx="200" cy="40" r="2" fill="#B0A898" opacity="0.1"/>
+</svg>

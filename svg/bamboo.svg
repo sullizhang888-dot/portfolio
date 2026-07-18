@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 500" fill="none">
+  <!-- Bamboo stalks -->
+  <path d="M40 500 Q45 400 38 300 Q32 200 42 100 Q48 50 40 0" stroke="#B0A898" stroke-width="3" opacity="0.12" fill="none"/>
+  <path d="M60 500 Q55 400 62 300 Q68 200 58 100 Q52 50 60 0" stroke="#B0A898" stroke-width="2.5" opacity="0.08" fill="none"/>
+  <!-- Bamboo nodes -->
+  <ellipse cx="40" cy="400" rx="8" ry="2" fill="#B0A898" opacity="0.1"/>
+  <ellipse cx="38" cy="300" rx="8" ry="2" fill="#B0A898" opacity="0.1"/>
+  <ellipse cx="42" cy="200" rx="8" ry="2" fill="#B0A898" opacity="0.1"/>
+  <ellipse cx="42" cy="100" rx="7" ry="2" fill="#B0A898" opacity="0.1"/>
+  <!-- Bamboo leaves -->
+  <path d="M40 400 Q20 380 5 385 Q20 390 40 400" fill="#B0A898" opacity="0.08"/>
+  <path d="M40 400 Q55 375 70 380 Q55 388 40 400" fill="#B0A898" opacity="0.06"/>
+  <path d="M38 300 Q15 280 0 285 Q18 292 38 300" fill="#B0A898" opacity="0.08"/>
+  <path d="M38 300 Q55 275 70 280 Q55 288 38 300" fill="#B0A898" opacity="0.06"/>
+  <path d="M42 200 Q20 180 5 185 Q22 192 42 200" fill="#B0A898" opacity="0.08"/>
+  <path d="M42 200 Q60 175 75 180 Q60 188 42 200" fill="#B0A898" opacity="0.06"/>
+  <path d="M42 100 Q25 80 10 85 Q28 92 42 100" fill="#B0A898" opacity="0.08"/>
+  <!-- Second stalk leaves -->
+  <path d="M60 350 Q45 330 30 335 Q45 342 60 350" fill="#B0A898" opacity="0.06"/>
+  <path d="M60 350 Q75 325 90 330 Q75 338 60 350" fill="#B0A898" opacity="0.05"/>
+  <path d="M58 150 Q40 130 25 135 Q42 142 58 150" fill="#B0A898" opacity="0.06"/>
+</svg>

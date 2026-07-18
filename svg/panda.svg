@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Panda head -->
+  <circle cx="100" cy="105" r="60" fill="#2C1810" opacity="0.85"/>
+  <!-- Left ear -->
+  <ellipse cx="62" cy="58" rx="22" ry="20" fill="#2C1810" opacity="0.85"/>
+  <!-- Right ear -->
+  <ellipse cx="138" cy="58" rx="22" ry="20" fill="#2C1810" opacity="0.85"/>
+  <!-- Left eye patch -->
+  <ellipse cx="78" cy="95" rx="18" ry="16" fill="#2C1810" opacity="0.9" transform="rotate(-15 78 95)"/>
+  <!-- Right eye patch -->
+  <ellipse cx="122" cy="95" rx="18" ry="16" fill="#2C1810" opacity="0.9" transform="rotate(15 122 95)"/>
+  <!-- Left eye white -->
+  <circle cx="76" cy="92" r="8" fill="#FFFDF9"/>
+  <!-- Right eye white -->
+  <circle cx="124" cy="92" r="8" fill="#FFFDF9"/>
+  <!-- Left pupil -->
+  <circle cx="78" cy="91" r="5" fill="#2C1810"/>
+  <!-- Right pupil -->
+  <circle cx="126" cy="91" r="5" fill="#2C1810"/>
+  <!-- Eye shine -->
+  <circle cx="80" cy="88" r="2" fill="#FFFDF9"/>
+  <circle cx="128" cy="88" r="2" fill="#FFFDF9"/>
+  <!-- Nose -->
+  <ellipse cx="100" cy="110" rx="7" ry="5" fill="#2C1810" opacity="0.9"/>
+  <!-- Mouth -->
+  <path d="M93 117 Q100 123 107 117" stroke="#2C1810" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <!-- Cheek blush -->
+  <ellipse cx="68" cy="112" rx="8" ry="5" fill="#D4564A" opacity="0.15"/>
+  <ellipse cx="132" cy="112" rx="8" ry="5" fill="#D4564A" opacity="0.15"/>
+  <!-- Body -->
+  <ellipse cx="100" cy="165" rx="40" ry="30" fill="#2C1810" opacity="0.85"/>
+  <!-- Left arm -->
+  <ellipse cx="65" cy="160" rx="12" ry="20" fill="#2C1810" opacity="0.8" transform="rotate(20 65 160)"/>
+  <!-- Right arm -->
+  <ellipse cx="135" cy="160" rx="12" ry="20" fill="#2C1810" opacity="0.8" transform="rotate(-20 135 160)"/>
+  <!-- Bamboo in paw -->
+  <line x1="130" y1="175" x2="155" y2="145" stroke="#C9A84C" stroke-width="4" opacity="0.3" stroke-linecap="round"/>
+  <line x1="140" y1="165" x2="150" y2="155" stroke="#C9A84C" stroke-width="2" opacity="0.2" stroke-linecap="round"/>
+</svg>
